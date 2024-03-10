@@ -1,0 +1,18 @@
+.Position_Class{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    height: 30%;
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+.scroll-bar{
+    height: 100%;
+    width: 108px;
+    border: 1px solid grey;
+}
+
+body{
+    background: url('PortfolioBackground2.png');
+}
